@@ -65,7 +65,7 @@ const BLOG = {
     'Hi，我是一个大学生, Hi，我是一个网安人,Hi，我是一个干饭人,欢迎来到我的博客🎉',
 
   // uuid重定向至 slug
-  UUID_REDIRECT: process.env.UUID_REDIRECT || false，
+  UUID_REDIRECT: process.env.UUID_REDIRECT || false,
 
   // 是否显示切换主题按钮
   THEME_SWITCH: process.env.NEXT_PUBLIC_THEME_SWITCH || true
